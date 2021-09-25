@@ -4,23 +4,7 @@
         <link>https://amosji.com/</link>
         <description>Bare ruin’d choirs, where late the sweet birds sang.</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jmc891205@gmail.com (Mingchao Ji)</managingEditor>
-            <webMaster>jmc891205@gmail.com (Mingchao Ji)</webMaster><lastBuildDate>Sat, 25 Sep 2021 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>jmc891205@gmail.com (Mingchao Ji)</webMaster>
             <atom:link href="https://amosji.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>科技爱好者周刊（第177期）</title>
-    <link>https://amosji.com/2021/09/my-second-post/</link>
-    <pubDate>Sat, 25 Sep 2021 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://amosji.com/2021/09/my-second-post/</guid>
-    <description><![CDATA[<p>这里记录每周值得分享的科技内容，周五发布。（<strong>[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。</strong>）</p>
-<p>本杂志开源（GitHub: <a href="https://github.com/ruanyf/weekly" target="_blank" rel="noopener noreffer">ruanyf/weekly</a>），欢迎提交 issue，投稿或推荐科技内容。</p>
-<p>周刊讨论区的帖子<a href="https://github.com/ruanyf/weekly/issues/1913" target="_blank" rel="noopener noreffer">《谁在招人？》</a>，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。</p>]]></description>
-</item><item>
-    <title>我的第一篇post</title>
-    <link>https://amosji.com/2021/08/my-first-post/</link>
-    <pubDate>Wed, 25 Aug 2021 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://amosji.com/2021/08/my-first-post/</guid>
-    <description><![CDATA[A very simple way to add structured data to a page.]]></description>
-</item></channel>
+        </channel>
 </rss>
