@@ -1,21 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2021 23:14:05 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 13 Sep 2021 23:14:05 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Title hahah
-s = &amp;#34;hello world&amp;#34; print(s) </description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 荆谧的博客</title>
+        <link>https://amosji.com/posts/</link>
+        <description>所有文章 | 荆谧的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jmc891205@gmail.com (Mingchao Ji)</managingEditor>
+            <webMaster>jmc891205@gmail.com (Mingchao Ji)</webMaster><lastBuildDate>Sat, 25 Sep 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://amosji.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>科技爱好者周刊（第177期）</title>
+    <link>https://amosji.com/2021/09/my-second-post/</link>
+    <pubDate>Sat, 25 Sep 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://amosji.com/2021/09/my-second-post/</guid>
+    <description><![CDATA[<p>这里记录每周值得分享的科技内容，周五发布。（<strong>[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。</strong>）</p>
+<p>本杂志开源（GitHub: <a href="https://github.com/ruanyf/weekly" target="_blank" rel="noopener noreffer">ruanyf/weekly</a>），欢迎提交 issue，投稿或推荐科技内容。</p>
+<p>周刊讨论区的帖子<a href="https://github.com/ruanyf/weekly/issues/1913" target="_blank" rel="noopener noreffer">《谁在招人？》</a>，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。</p>]]></description>
+</item><item>
+    <title>我的第一篇post</title>
+    <link>https://amosji.com/2021/08/my-first-post/</link>
+    <pubDate>Wed, 25 Aug 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://amosji.com/2021/08/my-first-post/</guid>
+    <description><![CDATA[A very simple way to add structured data to a page.]]></description>
+</item></channel>
 </rss>
