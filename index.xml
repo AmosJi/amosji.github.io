@@ -4,7 +4,22 @@
         <link>https://amosji.com/</link>
         <description>Bare ruin’d choirs, where late the sweet birds sang.</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jmc891205@gmail.com (Mingchao Ji)</managingEditor>
-            <webMaster>jmc891205@gmail.com (Mingchao Ji)</webMaster>
+            <webMaster>jmc891205@gmail.com (Mingchao Ji)</webMaster><lastBuildDate>Sat, 25 Sep 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://amosji.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>新一篇</title>
+    <link>https://amosji.com/2021/09/new-test/</link>
+    <pubDate>Sat, 25 Sep 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://amosji.com/2021/09/new-test/</guid>
+    <description><![CDATA[这篇主要是测试常用的一些markdown语法。]]></description>
+</item><item>
+    <title>为什么我要写博客</title>
+    <link>https://amosji.com/2021/08/why-i-start-this-blog/</link>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://amosji.com/2021/08/why-i-start-this-blog/</guid>
+    <description><![CDATA[<p>在这个互联网时代，随着各个社交网络的流行，我发现自己写长文的能力退化了许多。<br>
+因此，我希望能利用这个博客，重拾创作的能力。</p>]]></description>
+</item></channel>
 </rss>
